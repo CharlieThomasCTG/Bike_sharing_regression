@@ -43,9 +43,7 @@ day.csv have the following fields:
 
 
 
-RangeIndex: 731 entries, 0 to 730
-Data columns (total 16 columns):
- #   Column      Non-Null Count  Dtype  
+ 
 ---  ------      --------------  -----  
  0   instant     731 non-null    int64  
  1   dteday      731 non-null    object 
