@@ -112,6 +112,14 @@ week_work_thu_not_workingday: A coefficient value of ‘-0.3140’ indicated tha
 
 weather_condition_Light_Rain: A coefficient value of ‘-0.2977’ indicated that a unit increase in weather_condition_Light_Rain variable decreases the bike hire numbers by 0.2977 units.
 
+## Summary of Results:
+Key Predictors:
+1. Temperature_felt: An increase in temperature leads to a corresponding increase in bike hire numbers. This suggests that warmer weather is associated with higher demand for rental bikes.
+2. Week_work_Thu_not_workingday: Thursday being a workday (rather than a non-working day) is associated with a decrease in bike hire numbers. This could imply that people are less likely to rent bikes on weekdays, 
+   especially when it's a working day.
+3. Weather_condition_Light_Rain: The occurrence of light rain is associated with a decrease in bike hire numbers. This indicates that adverse weather conditions, even mild ones like light rain, can deter people 
+   from renting bikes.
+
 
 ## Acknowledgements
 Special thanks to Mr. Vikas UnniKKannan to help me understand the linear regression algorithm.
