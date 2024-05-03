@@ -1,4 +1,4 @@
-# Project name: Bike sharing.
+# Project name: Regression model to predict the Bike sharing demand.
 
 ![image](https://github.com/charliethomasct82/Bike_sharing_regression/assets/93368865/495ac807-93d8-421b-8cf2-978de7ebc0ef)
 
