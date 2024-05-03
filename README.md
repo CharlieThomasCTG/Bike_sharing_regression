@@ -1,9 +1,9 @@
-Project name: Bike sharing.
+# Project name: Bike sharing.
 
 ![image](https://github.com/charliethomasct82/Bike_sharing_regression/assets/93368865/495ac807-93d8-421b-8cf2-978de7ebc0ef)
 
 
-Problem statement:
+## Problem statement:
 
 > A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
@@ -79,7 +79,7 @@ Stats model Libraries
 MS-excel
 
 
-##Linear Model:Findings
+## Linear Model:Findings
 
 
 Linear equation of Regression model:model_3:
