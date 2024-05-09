@@ -1,6 +1,6 @@
 # Project name: Regression model to predict the Bike sharing demand.
 
-![image](https://github.com/charliethomasct82/Bike_sharing_regression/assets/93368865/495ac807-93d8-421b-8cf2-978de7ebc0ef)
+
 
 
 ## Problem statement:
@@ -81,6 +81,7 @@ MS-excel
 
 ## Linear Model:Findings
 
+![image](https://github.com/charliethomasct82/Bike_sharing_regression/assets/93368865/495ac807-93d8-421b-8cf2-978de7ebc0ef)
 
 Linear equation of Regression model:model_3:
 count_rental_bikes = 0.2216 + (0.4399 * temperature_felt) - (0.1316 * season_spring) + (0.0744 * season_winter) + (0.2335 * year_2019) + (0.0449 * month_Mar) - (0.0390 * month_Nov) + (0.0706 * month_Sep) + (0.0604 * month_Sep) - (0.0667 * weather_condition_Cloudy) - (0.2977 * weather_condition_Light_Rain)-(0.3140 * weekday_work_Thu_not_workingday) Interpretation of Coefficients:
@@ -129,6 +130,6 @@ Special thanks to Mr. Vikas UnniKKannan to help me understand the linear regress
 
 
 ## Contact
-Created by [@charliethomasct82] - feel free to contact me!
+Created by [@charliethomasct82] - feel free to contact me @ Charliethomasctg@gmail.com
 
 
