@@ -124,6 +124,8 @@ Key Predictors:
 3. Weather_condition_Light_Rain: The occurrence of light rain is associated with a decrease in bike hire numbers. This indicates that adverse weather conditions, even mild ones like light rain, can deter people 
    from renting bikes.
 
+![image](https://github.com/charliethomasct82/Bike_sharing_regression/assets/93368865/d97c50c8-6fde-4e96-bd6b-0c7d8a6f8037)
+
 
 ## Acknowledgements
 Special thanks to Mr. Vikas UnniKKannan to help me understand the linear regression algorithm.
